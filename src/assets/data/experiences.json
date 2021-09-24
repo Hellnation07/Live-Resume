@@ -1,108 +1,104 @@
 [
     {
         "id": 1,
-        "position": 1,
-        "startAt": "02-02-2009",
-        "endAt": "12-24-2010",
-        "companyName": "Fácil Tecnologias",
-        "website": "http://www.faciltecnologias.com.br/",
-        "logo": "../../assets/template/experience/logo/facil-logo.png",
+        "graduation": "B.tech",
+        "startAt": "08-22-2017",
+        "endAt": "08-09-2021",
+        "collegeName": "Oriental College Of Tecnology",
+        "website": "https://www.oistbpl.com/",
+        "logo": "../../assets/template/experience/logo/oist.png",
         "internationalizations": [
             {
                 "language": "pt",
-                "city": "Uberaba",
-                "country": "Brasil",
-                "role": "Estágio Webmaster",
-                "description": "A <b>Fácil Tecnologias LTDA</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
+                "city": "Bhopal",
+                "state": "Madhya pradesh",
+                "stream": "Computer science",
+                "description": "A <b>Oriental College Of Technology</b> é uma empresa focada em soluções para educação, seu principal produto é um conjunto de soluções para estudos na obtenção da <i>carteira nacional de habilitação (CNH)</i>, entre elas, multimídias, aplicativos on-line, aplicativos móveis, livros, entre outros. <br><br>Na <i>Fácil Tecnologias LTDA</i>, entrei em contato com desenvolvedores seniores, aprendendo as melhores práticas, padrões e como debater idéias e oferecer soluções diversas para o mesmo problema. Foi o ponto de partida, uma oportunidade única de transformar o conhecimento teórico em soluções concretas que estavam sendo usadas por centenas de pessoas todos os dias."
             },
             {
                 "language": "en",
-                "city": "Uberaba",
-                "country": "Brazil",
-                "role": "Webmaster intern",
-                "description": "<b>Fácil Tecnologias LTDA</b> is a company focused in solutions for education, its main product is a set of solutions for studying for getting the <i>driver license</i>, among them, there are multimedia, online applications, mobile apps, books, and others.<br><br>At <i>Fácil Tecnologias LTDA</i>, I got in touch with senior developers, learning best practices, patterns, and how to debate ideas and offer various solutions for the very same problem. It was the start point, a unique opportunity to turn theoretical knowledge into concrete solutions that were being used by hundreds of people every day."
+                "city": "Bhopal",
+                "state": "Madhya pradesh",
+                "stream": "Computer science",
+                "description": "<b>Oriental College Of Technology</b> , Bhopal was established in the year 2002, Oriental College Of Technology, Bhopal is affiliated to Rajiv Gandhi Proudyogiki Vishwavidyalaya (RGPV), Bhopal"
             }
         ],
         "technologies": [
-            "PHP", "Zend Framework", "Cake Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "AJAX", "SOAP", "Joomla", "Wordpress", "SVN", "SQL", "MySQL", "PostgreSQL", "Windows"
+            "HTML", "CSS", "CSS3", "Javascript", "SQL", "MySQL", "Windows", "React", "Core-java"
         ],
         "medias": [
             {
                 "icon": "facebook",
                 "title": "Facebook Editora Nosso Trânsito",
-                "http": "https://www.facebook.com/editoranossotransito/"
+                "http": "https://www.facebook.com/orientalgroupofinstitutes/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/uberaba.jpg"
+        "backgroundUrl": "../../assets/template/experience/oist.jpg"
     },
     {
         "id": 2,
-        "position": 2,
-        "startAt": "01-03-2011",
-        "endAt": "06-16-2014",
-        "companyName": "E-tática",
-        "website": "https://www.e-tatica.com/",
-        "logo": "../../assets/template/experience/logo/etatica-logo.png",
+        "highSchool": "BSEB",
+        "startAt": "05-14-2015",
+        "endAt": "04-16-2017",
+        "collegeName": "Janta college",
+        "website": "http://biharboardonline.bihar.gov.in/",
+        "logo": "../../assets/template/experience/logo/bseblogo.png",
         "internationalizations": [
             {
                 "language": "pt",
-                "city": "Rio de Janeiro",
-                "country": "Brasil",
-                "role": "Desenvolvedor Full-stack",
+                "city": "Patna",
+                "state": "Bihar",
+                "stram": "Science",
                 "description": "A <b>E-tática</b> é uma agência especializada em soluções para <i>comércio eletrônico</i>, marketing digital e identidade visual desde 2008, trabalhando com grandes, pequenos e médios negócios, oferecendo para seus clientes, o know-how na integração de seus negócios com <i>Sistemas integrados de gestão empresarial (ERP)</i> e <i>APIs de terceiros</i>, tais como <i>provedores de pagamento personalizados</i>, fazendo a integração do gerenciamento interno da plataforma on-line e da loja física, sendo certificada pelas principais plataformas do mercado.<br><br>Na <i>E-tática </i>, trabalhei para desenvolver soluções personalizadas para clientes do atacado e varejo, valorizando a qualidade e a continuidade dos projetos a médio e longo prazo."
             },
             {
                 "language": "en",
-                "city": "Rio de Janeiro",
-                "country": "Brazil",
-                "role": "Full-stack Developer",
-                "description": "<b>E-tática</b> is an agency specialized in solutions for <i>e-commerce</i>, digital marketing, and visual identity since 2008, working with large, small, and medium-sized businesses, offering to their clients the know-how in the integration of <i>enterprise resource planning (ERP)</i> and <i>third-party APIs</i>, such as custom <i>payment providers</i>. It does the integration of the internal management of the online platform and physical store, being certified by the main platforms in the market.<br><br>At <i>E-tática</i> I have worked to develop custom solutions for clients wholesale and retail, valuing the quality and continuity of projects in the medium and long term."
+                "city": "Patna",
+                "state": "Bihar",
+                "role": "Science",
+                "description": "<b>The Bihar School Examination Board</b> (BSEB) is a statutory body under section 3 of Bihar School Examination Act - 1952 which is functioning under Government of Bihar devised to conduct examinations at secondary and senior secondary standard in both government and private schools belonging to state of Bihar."
             }
         ],
         "technologies": [
-            "Magento 1.X", "PHP", "Zend Framework", "HTML", "CSS", "CSS3", "Javascript", "jQuery", "SOAP", "Wordpress", "SVN", "Payment Services", "SSH", "SSL", "Linux"
+            "Science","Arts","Commerce"
         ],
         "medias": [
-            {
-                "icon": "linkedin",
-                "title": "LinkedIn E-tática",
-                "http": "https://www.linkedin.com/company/etatica/"
-            },
+
             {
                 "icon": "facebook",
-                "title": "Facebook E-tática",
-                "http": "https://www.facebook.com/etatica/"
+                "title": "Facebook BSEB",
+                "http": "https://www.facebook.com/officialbseb/"
             },
             {
                 "icon": "instagram",
-                "title": "Instagram E-tática",
-                "http": "https://www.instagram.com/somos_etatica/"
+                "title": "Instagram BSEB",
+                "http": "https://www.instagram.com/officialbseb/?hl=en"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/rio.jpg"
+        "backgroundUrl": "../../assets/template/experience/bseb.jpg"
     },
     {
         "id": 3,
         "position": 3,
-        "startAt": "07-01-2014",
-        "endAt": "12-23-2016",
-        "companyName": "Deevo Studio",
-        "website": "http://deevo.com.br/",
-        "logo": "../../assets/template/experience/logo/deevo-logo.png",
+        "startAt": "03-08-2021",
+        "endAt": "03-08-2022",
+        "companyName": "Jspyder",
+        "website": "https://jspiders.com/courses",
+        "logo": "../../assets/template/experience/logo/jspyder.png",
         "internationalizations": [
             {
                 "language": "pt",
-                "city": "São Paulo",
-                "country": "Brasil",
-                "role": "Desenvolvedor Mobile",
+                "city": "Bangalore",
+                "state": "Karnataka",
+                "role": "Java Developer",
                 "description": "A <b>Deevo Studio</b> é uma agência especializada em <i>web design</i> e <i>desenvolvimento</i> com um extenso portfólio de casos de sucesso, resultado de mais de <i>20 anos</i> de experiência com diversas agências e no mercado corporativo. Suas criações envolvem tudo, desde o desenvolvimento da marca e identidade visual, até a criação de aplicativos e sites, com um amplo conhecimento do Wordpress e das tecnologias da web. <br><br>Na <i>Deevo Studio</i>, tive a chance de usar o conhecimento anterior de <i>back-end</i> combinado com a experiência prática no desenvolvimento JAVA para aceitar o desafio de iniciar um <i>Departamento de Desenvolvimento Android</i> na empresa, fornecendo complexos <i>Aplicativos Android</i> para empresas no Brasil."
             },
             {
                 "language": "en",
-                "city": "São Paulo",
-                "country": "Brazil",
-                "role": "Mobile Developer",
-                "description": "At <b>Deevo Studio</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the corporate market. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Deevo Studio</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
+                "city": "Bangalore",
+                "state": "Karnataka",
+                "role": "Java Developer",
+                "description": "At <b>Deevo Studio</b> is a company specializing in <i>web design</i> and <i>development</i> with an extensive portfolio of cases, the result of <i>20 years</i> of experience with other agencies and the education institute. Their creations involve everything from brand development and visual identity to the creation of applications and websites, with a wide knowledge of Wordpress and Web Technologies.<br><br>At <i>Deevo Studio</i>, I had the chance to use the previously back-end knowledge combined with practical experience in JAVA development to accept the challenge to start an <i>Android Development Department</i> in the company, delivering complex <i>Android Applications</i> to companies in Brazil."
             }
         ],
         "technologies": [
@@ -110,34 +106,33 @@
         ],
         "medias": [
             {
-                "icon": "linkedin",
-                "title": "LinkedIn Deevo Studio",
-                "http": "https://www.linkedin.com/company/deevo/about/"
+                "icon": "instagram",
+                "title": "instagram jspyder",
+                "http": "https://www.instagram.com/jspidersbtm/?hl=en"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/sao-paulo.jpg"
+        "backgroundUrl": "../../assets/template/experience/jspder.jpg"
     },
     {
         "id": 4,
         "position": 4,
-        "startAt": "01-02-2017",
-        "endAt": "11-30-2017",
-        "companyName": "Skydreamer",
-        "logo": "../../assets/template/experience/logo/skydreamer-logo.png",
+        "startAt": "24-09-2021",
+        "companyName": "Xelpmoc",
+        "logo": "../../assets/template/experience/logo/xelp.png",
         "internationalizations": [
             {
                 "language": "pt",
-                "city": "Utrecht",
-                "country": "Países Baixos",
+                "city": "Karnataka",
+                "country": "India",
                 "role": "Desenvolvedor Full-stack",
-                "description": "Na <b>Skydreamer Startup</b>, fui convidado para fazer parte da equipe de desenvolvimento do primeiro aplicativo móvel europeu que transformaria o planejamento de viagens entre amigos em um <i>Jogo de Swipe & Match</i>, oferecendo milhares de destinos em todo o mundo. Sempre com as melhores ofertas de voos, hotéis e apartamentos.<br><br>Na <i>Skydreamer</i>, tive a incrível experiência de vivenciar um <i> ambiente de startup</i>, os prós e os contras , expandindo minha mente de como liderar com o gerenciamento remoto, com prazos curtos e recursos muito limitados. Em setembro de 2017, com a versão <i>Beta</i> em execução e com vários usuários reais, fomos até a <i>TechCrunch Disrupt<i> em São Francisco, onde recebemos uma oferta de uma agência internacional de esportes e entretenimento."
+                "description": "Na <b>Xelpmoc</b>, fui convidado para fazer parte da equipe de desenvolvimento do primeiro aplicativo móvel europeu que transformaria o planejamento de viagens entre amigos em um <i>Jogo de Swipe & Match</i>, oferecendo milhares de destinos em todo o mundo. Sempre com as melhores ofertas de voos, hotéis e apartamentos.<br><br>Na <i>Skydreamer</i>, tive a incrível experiência de vivenciar um <i> ambiente de startup</i>, os prós e os contras , expandindo minha mente de como liderar com o gerenciamento remoto, com prazos curtos e recursos muito limitados. Em setembro de 2017, com a versão <i>Beta</i> em execução e com vários usuários reais, fomos até a <i>TechCrunch Disrupt<i> em São Francisco, onde recebemos uma oferta de uma agência internacional de esportes e entretenimento."
             },
             {
                 "language": "en",
-                "city": "Utrecht",
-                "country": "Netherlands",
+                "city": "Karnataka",
+                "country": "India",
                 "role": "Full-stack Developer",
-                "description": "At <b>Skydreamer</b>, I was invited to be part of the development team of the first European mobile application that turns traveling with friends into a <i>Swipe and Match Game</i>, offering thousands of destinations all around the world. Always with the best offers for Flights, Hotels, apartments.<br><br>At <i>Skydreamer</i>, I had the amazing experience of a <i>startup environment</i>, the pros, and cons, expanding my mind of how to lead with the remote management, with short deadlines periods and very limited resources. In September 2017, with the 'Beta' version running and with several real users, we went to <i>TechCrunch Disrupt<i> - San Francisco where we received an offer from an international sports and entertainment agency."
+                "description": "At <b>Xelpmoc</b>,  Design and Tech Limited was incorporated as a private limited company with the name Xelpmoc Design and Tech Private Limited' on September 16 2015. The Company was converted into a public limited company pursuant to a special resolution passed by the Shareholders on July 2 2018 and the name of the Company was changed to Xelpmoc Design and Tech Limited' on July 20 2018."
             }
         ],
         "technologies": [
@@ -146,16 +141,16 @@
         "medias": [
             {
                 "icon": "youtube",
-                "title": "YouTube Skydreamer",
-                "http": "https://www.youtube.com/channel/UCZ6_SqHB-Sdl7EHIXbvYoSw"
+                "title": "YouTube Xelpmoc",
+                "http": "https://www.youtube.com/channel/UCaF2hjjqdoR9Ys3k8AwlyRQ"
             },
             {
                 "icon": "facebook",
-                "title": "Facebook SkyDreamer App",
-                "http": "https://www.facebook.com/skydreamer.io/"
+                "title": "facebook Xelpmoc",
+                "http": "https://www.facebook.com/x31pm0c/"
             }
         ],
-        "backgroundUrl": "../../assets/template/experience/utrecht.jpg"
+        "backgroundUrl": "../../assets/template/experience/xelpmoc.jpg"
     },
     {
         "id": 5,

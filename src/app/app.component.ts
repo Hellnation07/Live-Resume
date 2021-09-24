@@ -20,16 +20,16 @@ export class AppComponent implements OnInit {
     this.titleService.setTitle(this.title);
 
     this.metaTagService.addTags([
-      { name: "keywords", content: "Web Developer, Java Developer, Full-stack Java Developer, DevOps Engineer, Android Developer, Guilherme Borges Bastos Live Resume, Guilherme Borges Bastos Resume, Guilherme Borges Bastos CV, Curriculum Guilherme Borges Bastos, GBASTOS Resumo, gbastos live resume" },
+      { name: "keywords", content: "Web Developer, Java Developer, Full-stack Java Developer, Android Developer, Nishant kumar Bharti Live Resume, Nishant kumar Bharti Resume, Nishant kumar Bharti CV, Curriculum Nishant kumar Bharti, Nishant Resumo, nishant live resume" },
       { name: "robots", content: "index, follow" },
-      { name: "author", content: "Guilherme Borges Bastos" },
+      { name: "author", content: "Nishant kumar Bharti" },
       { name: "viewport", content: "width=device-width, initial-scale=1" },
       { name: "date", content: "2020-05-12", scheme: "YYYY-MM-DD" },
       { charset: "UTF-8" }
     ]);
 
     this.metaTagService.updateTag(
-      { name: "description", content: "Hello, I'm a Full-stack Web Developer with 10+ years of experience designing web and mobile projects. Find out more in my live-resume!" }
+      { name: "description", content: "Hello, I'm a Full-stack Web Developer. designing web and mobile projects. Find out more in my live-resume!" }
     );
   }
 }

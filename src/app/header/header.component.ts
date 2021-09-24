@@ -101,9 +101,9 @@ export class HeaderComponent implements OnInit, AfterViewInit {
   async share() {
     try{
       await this.ngNavigatorShareService.share({
-        title: "Live Resume - Guilherme Borges Bastos",
-        text: "Hello, I'm a Full-stack Java Web Developer with 10+ years of experience designing web and mobile projects. Find out more in my live-resume!",
-        url: "https://guilhermeborgesbastos.com"
+        title: "Live Resume - Nishant kumar Bharti",
+        text: "Hello, I'm a Full-stack Java Web Developer. Designing web and mobile projects. Find out more in my live-resume!",
+        url: "https://https://github.com/Hellnation07.com"
       });
     } catch(error) {
       console.log("You app is not shared, reason: ", error);

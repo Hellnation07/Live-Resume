@@ -6,9 +6,9 @@
 
 <div align="center">
   
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://GitHub.com/guilhermeborgesbastos/live-resume/stargazers/) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6f04e1e3103a4af58e5398e23106bb93)](https://www.codacy.com/manual/guilhermeborgesbastos/live-resume?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=guilhermeborgesbastos/live-resume&amp;utm_campaign=Badge_Grade)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fguilhermeborgesbastos%2Flive-resume.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fguilhermeborgesbastos%2Flive-resume?ref=badge_shield) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/guilhermeborgesbastos/live-resume/wiki) [![GitHub tag](https://img.shields.io/github/tag/guilhermeborgesbastos/live-resume.svg)](https://github.com/guilhermeborgesbastos/live-resume/tags/)
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://GitHub.com/nishantkumarbharti/live-resume/stargazers/) [![Codacy Badge](https://app.codacy.com/project/badge/Grade/6f04e1e3103a4af58e5398e23106bb93)](https://www.codacy.com/manual/nishantkumarbharti/live-resume?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=nishantkumarbharti/live-resume&amp;utm_campaign=Badge_Grade)[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fnishantkumarbharti%2Flive-resume.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fnishantkumarbharti%2Flive-resume?ref=badge_shield) [![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](https://github.com/nishantkumarbharti/live-resume/wiki) [![GitHub tag](https://img.shields.io/github/tag/nishantkumarbharti/live-resume.svg)](https://github.com/nishantkumarbharti/live-resume/tags/)
 
- [![Gitter](https://badges.gitter.im/live-resume/community.svg)](https://gitter.im/live-resume/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://opensource.org/licenses/MIT) [![GitHub forks](https://img.shields.io/github/forks/guilhermeborgesbastos/live-resume.svg?style=social&label=Fork&maxAge=259100)](https://GitHub.com/guilhermeborgesbastos/live-resume/network/) [![GitHub stars](https://img.shields.io/github/stars/guilhermeborgesbastos/live-resume.svg?style=social&label=Star&maxAge=259100)](https://GitHub.com/guilhermeborgesbastos/live-resume/stargazers/)
+ [![Gitter](https://badges.gitter.im/live-resume/community.svg)](https://gitter.im/live-resume/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://opensource.org/licenses/MIT) [![GitHub forks](https://img.shields.io/github/forks/nishantkumarbharti/live-resume.svg?style=social&label=Fork&maxAge=259100)](https://GitHub.com/nishantkumarbharti/live-resume/network/) [![GitHub stars](https://img.shields.io/github/stars/nishantkumarbharti/live-resume.svg?style=social&label=Star&maxAge=259100)](https://GitHub.com/nishantkumarbharti/live-resume/stargazers/)
 
 </div>
 
@@ -20,7 +20,7 @@
 <div align="center">
 <br>
 
-[![Watch the video](/markdown/LiveResumeGuilhermeBorgesBastos-v1.2.gif)](https://guilhermeborgesbastos.com/?source=github)
+[![Watch the video](/markdown/LiveResumenishantkumarbharti-v1.2.gif)](https://nishantkumarbharti.com/?source=github)
 
 </div>
 
@@ -32,23 +32,23 @@ Get rid of your old and deprecated text resume by using the first **Open-source 
 * Totally responsive for the mobile and desktop devices _(allow mobile gestures too... ;))_;
 * Internationalization for English and Portuguese _(easy for adding/removing new languages - in18 lib)_;
 * Mobile navigation sharing _(Share the resume with native apps like Whatsapp, LinkedIn, Facebook, etc...)_;
-* A complete [Wiki](https://github.com/guilhermeborgesbastos/live-resume/wiki) that provides support;
+* A complete [Wiki](https://github.com/nishantkumarbharti/live-resume/wiki) that provides support;
 * Integrated with Google Analytics;
 * Optimized for SEO  _( Crawler and Bots from Google, Bing, etc... )_;
 * Using the schemas for structured data (schema.org);
 * Firebase integration in the contact form;
-* Composed of 5 custom sections ([Welcome](https://guilhermeborgesbastos.com/), [About Me](https://guilhermeborgesbastos.com/about), [Experiences](https://guilhermeborgesbastos.com/experience), [Posts](https://guilhermeborgesbastos.com/posts), and [Contact](https://guilhermeborgesbastos.com/contact));
-* Router fragment friendly (e.g: https://guilhermeborgesbastos.com/posts );
+* Composed of 5 custom sections ([Welcome](https://nishantkumarbharti.com/), [About Me](https://nishantkumarbharti.com/about), [Experiences](https://nishantkumarbharti.com/experience), [Posts](https://nishantkumarbharti.com/posts), and [Contact](https://nishantkumarbharti.com/contact));
+* Router fragment friendly (e.g: https://nishantkumarbharti.com/posts );
 * Source code verified by static code analyzers _(safe and ready for production)_;
 
 ## Changelog
-[Learn about the latest improvements.](https://github.com/guilhermeborgesbastos/live-resume/CHANGELOG.md)
+[Learn about the latest improvements.](https://github.com/nishantkumarbharti/live-resume/CHANGELOG.md)
 
 ## 🗂 Wiki Documentation & 💬 Community Chat
 
 To get more help on the setup, customization or any other aspect, accessing the following:
 
-* [Wiki on GitHub](https://github.com/guilhermeborgesbastos/live-resume/wiki) - A complete documentation, from _getting started_ until _deploy_.
+* [Wiki on GitHub](https://github.com/nishantkumarbharti/live-resume/wiki) - A complete documentation, from _getting started_ until _deploy_.
 * [![Gitter](https://badges.gitter.im/live-resume/community.svg)](https://gitter.im/live-resume/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge) - A _Community Chat_ for further discussions.
 
 ## ⚓Prerequisite
@@ -99,7 +99,7 @@ ng serve --host 0.0.0.0 --configuration=en
 
 ## 🔨 How to customize?
 
-In the [Wiki Doc.](https://github.com/guilhermeborgesbastos/live-resume/wiki/applying-customizations) there is a specific page supporting you on how to apply customizations to the layout and more... [See page](https://github.com/guilhermeborgesbastos/live-resume/wiki/applying-customizations)
+In the [Wiki Doc.](https://github.com/nishantkumarbharti/live-resume/wiki/applying-customizations) there is a specific page supporting you on how to apply customizations to the layout and more... [See page](https://github.com/nishantkumarbharti/live-resume/wiki/applying-customizations)
 
 ## 🖋 Contribute
 
@@ -116,8 +116,8 @@ This project uses several open source packages:
 
 ---
 
-> Site [www.guilhermeborgesbastos.com](https://www.guilhermeborgesbastos.com)<br>
-> LinkedIn [profile](https://www.linkedin.com/in/guilhermeborgesbastos)<br>
+> Site [www.nishantkumarbharti.com](https://www.nishantkumarbharti.com)<br>
+> LinkedIn [profile](https://www.linkedin.com/in/nishantkumarbharti)<br>
 > Facebook [profile](https://www.facebook.com/guilherme.borgesbastos)
 
 ## 📝 License
